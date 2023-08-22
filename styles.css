@@ -33,6 +33,8 @@ textarea{
      margin-left:45rem;
      padding: 1rem;
      font-family: 'Montserrat', sans-serif;
+     font-size: larger;
+     
 
    }
 
@@ -51,6 +53,7 @@ textarea{
 #btn-translate{
     margin-top: 2rem;
     margin-left:60rem;
+    margin-bottom: 2rem;
     font-size: x-large;
 }
 
