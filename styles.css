@@ -11,20 +11,26 @@ body{
 }
 
 textarea{
-    width:80%;
+    width:30%;
     height: 10vh;
     display: block;
-    margin:1rem;
+
+
+    margin-top: 3rem;
+    margin-left:45rem;
     padding: 1rem;
     font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+    
+
    }
 
    #output{
      
      border: 1px solid black;
-     width: 80%;
+     width: 30%;
      height:10vh;
-     margin:1rem;
+     margin-left:45rem;
      padding: 1rem;
      font-family: 'Montserrat', sans-serif;
 
@@ -38,6 +44,14 @@ textarea{
     font-size: larger;
     
     
+}
+
+
+
+#btn-translate{
+    margin-top: 2rem;
+    margin-left:60rem;
+    font-size: x-large;
 }
 
 
