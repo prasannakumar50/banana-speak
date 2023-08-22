@@ -17,7 +17,7 @@ textarea{
 
 
     margin-top: 3rem;
-    margin-left:45rem;
+    margin-left:30rem;
     padding: 1rem;
     font-family: 'Montserrat', sans-serif;
     font-size: larger;
@@ -30,7 +30,7 @@ textarea{
      border: 1px solid black;
      width: 30%;
      height:10vh;
-     margin-left:45rem;
+     margin-left:30rem;
      padding: 1rem;
      font-family: 'Montserrat', sans-serif;
      font-size: larger;
@@ -57,7 +57,7 @@ textarea{
 
 #btn-translate{
     margin-top: 2rem;
-    margin-left:45rem;
+    margin-left:30rem;
     margin-bottom: 1rem;
     font-size: x-large;
     width:20%;
@@ -66,7 +66,7 @@ textarea{
     background-color: var(--primary-color);
 }
 .output-header{
-    margin-left:44rem;
+    margin-left:30rem;
     padding: 1rem;
 }
 
