@@ -3,7 +3,7 @@
 
 
 :root{
-    --primary-color: red;
+    --primary-color: #c026d3;
 }
 
 body{
@@ -40,21 +40,44 @@ textarea{
 
    .navigation{
     background-color: var(--primary-color);
+
+    height:60px;
     color:white;
     padding: 1rem;
     text-align: center;
-    font-size: larger;
+    font-size: xx-large;
+  
+   
     
     
 }
+
 
 
 
 #btn-translate{
     margin-top: 2rem;
-    margin-left:60rem;
-    margin-bottom: 2rem;
+    margin-left:45rem;
+    margin-bottom: 1rem;
     font-size: x-large;
+    width:20%;
+    height: 10vh;
+    color: white;
+    background-color: var(--primary-color);
+}
+.output-header{
+    margin-left:44rem;
+    padding: 1rem;
 }
 
+.footer{
+    background-color: var(--primary-color);
+    padding:3rem;
+    color: white;
+    text-align: center;
+    margin-top: 4rem;
+    font-size: x-large;
+    justify-content: center;
+    
+}
 
